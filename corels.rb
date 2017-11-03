@@ -2,8 +2,8 @@
 #                http://www.rubydoc.info/github/Homebrew/homebrew/master/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 
-class Sbrlmod < Formula
-  desc "Scalable Bayesian Rule Lists. C-library to build a scalable rule list from input data and labels."
+class Corels < Formula
+  desc "Certifiably Optimal Rule Lists. C-library to build a certifiably optimal rule list from input data and labels."
   homepage "https://github.com/margoseltzer/corels-homebrew/wiki"
   url "https://github.com/margoseltzer/corels-homebrew/files/1441466/corels-1.0.tar.gz"
   version "1.0"
